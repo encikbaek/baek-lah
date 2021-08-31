@@ -40,7 +40,7 @@
                     <div class="row justify-content-between">
                         <div class="col-md-5 col-lg-5">
                             <div class="typed-headline">
-                                <h3>We are pack of fun </h3>
+                                <h3>We are pack of fun <span class="lead inline-block typed-text typed-text--cursor color--primary" data-typed-strings=";-)"></span></h3>
                             </div>
                             <ul class="accordion accordion-1 accordion--oneopen">
                                 <li class="active">
